@@ -24,6 +24,7 @@
                 response.sendRedirect("partials/invalid.jsp");
             }
         }
+
     }
 %>
 
